@@ -1,0 +1,15 @@
+D:\Training\Знакомство с языком программирования C#\Seminar8_ДЗ\S_8\Task_60_Three-Dimensional_Array\bin\Debug\net7.0\Task_60_Three-Dimensional_Array.exe
+D:\Training\Знакомство с языком программирования C#\Seminar8_ДЗ\S_8\Task_60_Three-Dimensional_Array\bin\Debug\net7.0\Task_60_Three-Dimensional_Array.deps.json
+D:\Training\Знакомство с языком программирования C#\Seminar8_ДЗ\S_8\Task_60_Three-Dimensional_Array\bin\Debug\net7.0\Task_60_Three-Dimensional_Array.runtimeconfig.json
+D:\Training\Знакомство с языком программирования C#\Seminar8_ДЗ\S_8\Task_60_Three-Dimensional_Array\bin\Debug\net7.0\Task_60_Three-Dimensional_Array.dll
+D:\Training\Знакомство с языком программирования C#\Seminar8_ДЗ\S_8\Task_60_Three-Dimensional_Array\bin\Debug\net7.0\Task_60_Three-Dimensional_Array.pdb
+D:\Training\Знакомство с языком программирования C#\Seminar8_ДЗ\S_8\Task_60_Three-Dimensional_Array\obj\Debug\net7.0\Task_60_Three-Dimensional_Array.csproj.AssemblyReference.cache
+D:\Training\Знакомство с языком программирования C#\Seminar8_ДЗ\S_8\Task_60_Three-Dimensional_Array\obj\Debug\net7.0\Task_60_Three-Dimensional_Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\Знакомство с языком программирования C#\Seminar8_ДЗ\S_8\Task_60_Three-Dimensional_Array\obj\Debug\net7.0\Task_60_Three-Dimensional_Array.AssemblyInfoInputs.cache
+D:\Training\Знакомство с языком программирования C#\Seminar8_ДЗ\S_8\Task_60_Three-Dimensional_Array\obj\Debug\net7.0\Task_60_Three-Dimensional_Array.AssemblyInfo.cs
+D:\Training\Знакомство с языком программирования C#\Seminar8_ДЗ\S_8\Task_60_Three-Dimensional_Array\obj\Debug\net7.0\Task_60_Three-Dimensional_Array.csproj.CoreCompileInputs.cache
+D:\Training\Знакомство с языком программирования C#\Seminar8_ДЗ\S_8\Task_60_Three-Dimensional_Array\obj\Debug\net7.0\Task_60_Three-Dimensional_Array.dll
+D:\Training\Знакомство с языком программирования C#\Seminar8_ДЗ\S_8\Task_60_Three-Dimensional_Array\obj\Debug\net7.0\refint\Task_60_Three-Dimensional_Array.dll
+D:\Training\Знакомство с языком программирования C#\Seminar8_ДЗ\S_8\Task_60_Three-Dimensional_Array\obj\Debug\net7.0\Task_60_Three-Dimensional_Array.pdb
+D:\Training\Знакомство с языком программирования C#\Seminar8_ДЗ\S_8\Task_60_Three-Dimensional_Array\obj\Debug\net7.0\Task_60_Three-Dimensional_Array.genruntimeconfig.cache
+D:\Training\Знакомство с языком программирования C#\Seminar8_ДЗ\S_8\Task_60_Three-Dimensional_Array\obj\Debug\net7.0\ref\Task_60_Three-Dimensional_Array.dll

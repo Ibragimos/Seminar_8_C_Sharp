@@ -1,0 +1,15 @@
+D:\Training\Знакомство с языком программирования C#\Seminar8_ДЗ\S_8\Task_56_The_Row_With_The_Smallest_Sum_Of_Elements\bin\Debug\net7.0\Task_56_The_Row_With_The_Smallest_Sum_Of_Elements.exe
+D:\Training\Знакомство с языком программирования C#\Seminar8_ДЗ\S_8\Task_56_The_Row_With_The_Smallest_Sum_Of_Elements\bin\Debug\net7.0\Task_56_The_Row_With_The_Smallest_Sum_Of_Elements.deps.json
+D:\Training\Знакомство с языком программирования C#\Seminar8_ДЗ\S_8\Task_56_The_Row_With_The_Smallest_Sum_Of_Elements\bin\Debug\net7.0\Task_56_The_Row_With_The_Smallest_Sum_Of_Elements.runtimeconfig.json
+D:\Training\Знакомство с языком программирования C#\Seminar8_ДЗ\S_8\Task_56_The_Row_With_The_Smallest_Sum_Of_Elements\bin\Debug\net7.0\Task_56_The_Row_With_The_Smallest_Sum_Of_Elements.dll
+D:\Training\Знакомство с языком программирования C#\Seminar8_ДЗ\S_8\Task_56_The_Row_With_The_Smallest_Sum_Of_Elements\bin\Debug\net7.0\Task_56_The_Row_With_The_Smallest_Sum_Of_Elements.pdb
+D:\Training\Знакомство с языком программирования C#\Seminar8_ДЗ\S_8\Task_56_The_Row_With_The_Smallest_Sum_Of_Elements\obj\Debug\net7.0\Task_56_The_Row_With_The_Smallest_Sum_Of_Elements.csproj.AssemblyReference.cache
+D:\Training\Знакомство с языком программирования C#\Seminar8_ДЗ\S_8\Task_56_The_Row_With_The_Smallest_Sum_Of_Elements\obj\Debug\net7.0\Task_56_The_Row_With_The_Smallest_Sum_Of_Elements.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\Знакомство с языком программирования C#\Seminar8_ДЗ\S_8\Task_56_The_Row_With_The_Smallest_Sum_Of_Elements\obj\Debug\net7.0\Task_56_The_Row_With_The_Smallest_Sum_Of_Elements.AssemblyInfoInputs.cache
+D:\Training\Знакомство с языком программирования C#\Seminar8_ДЗ\S_8\Task_56_The_Row_With_The_Smallest_Sum_Of_Elements\obj\Debug\net7.0\Task_56_The_Row_With_The_Smallest_Sum_Of_Elements.AssemblyInfo.cs
+D:\Training\Знакомство с языком программирования C#\Seminar8_ДЗ\S_8\Task_56_The_Row_With_The_Smallest_Sum_Of_Elements\obj\Debug\net7.0\Task_56_The_Row_With_The_Smallest_Sum_Of_Elements.csproj.CoreCompileInputs.cache
+D:\Training\Знакомство с языком программирования C#\Seminar8_ДЗ\S_8\Task_56_The_Row_With_The_Smallest_Sum_Of_Elements\obj\Debug\net7.0\Task_56_The_Row_With_The_Smallest_Sum_Of_Elements.dll
+D:\Training\Знакомство с языком программирования C#\Seminar8_ДЗ\S_8\Task_56_The_Row_With_The_Smallest_Sum_Of_Elements\obj\Debug\net7.0\refint\Task_56_The_Row_With_The_Smallest_Sum_Of_Elements.dll
+D:\Training\Знакомство с языком программирования C#\Seminar8_ДЗ\S_8\Task_56_The_Row_With_The_Smallest_Sum_Of_Elements\obj\Debug\net7.0\Task_56_The_Row_With_The_Smallest_Sum_Of_Elements.pdb
+D:\Training\Знакомство с языком программирования C#\Seminar8_ДЗ\S_8\Task_56_The_Row_With_The_Smallest_Sum_Of_Elements\obj\Debug\net7.0\Task_56_The_Row_With_The_Smallest_Sum_Of_Elements.genruntimeconfig.cache
+D:\Training\Знакомство с языком программирования C#\Seminar8_ДЗ\S_8\Task_56_The_Row_With_The_Smallest_Sum_Of_Elements\obj\Debug\net7.0\ref\Task_56_The_Row_With_The_Smallest_Sum_Of_Elements.dll

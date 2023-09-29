@@ -1,0 +1,15 @@
+D:\Training\Знакомство с языком программирования C#\Seminar8_ДЗ\S_8\Task_62_Spiral_Array\obj\Debug\net7.0\Task_62_Spiral_Array.csproj.AssemblyReference.cache
+D:\Training\Знакомство с языком программирования C#\Seminar8_ДЗ\S_8\Task_62_Spiral_Array\obj\Debug\net7.0\Task_62_Spiral_Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\Знакомство с языком программирования C#\Seminar8_ДЗ\S_8\Task_62_Spiral_Array\obj\Debug\net7.0\Task_62_Spiral_Array.AssemblyInfoInputs.cache
+D:\Training\Знакомство с языком программирования C#\Seminar8_ДЗ\S_8\Task_62_Spiral_Array\obj\Debug\net7.0\Task_62_Spiral_Array.AssemblyInfo.cs
+D:\Training\Знакомство с языком программирования C#\Seminar8_ДЗ\S_8\Task_62_Spiral_Array\obj\Debug\net7.0\Task_62_Spiral_Array.csproj.CoreCompileInputs.cache
+D:\Training\Знакомство с языком программирования C#\Seminar8_ДЗ\S_8\Task_62_Spiral_Array\bin\Debug\net7.0\Task_62_Spiral_Array.exe
+D:\Training\Знакомство с языком программирования C#\Seminar8_ДЗ\S_8\Task_62_Spiral_Array\bin\Debug\net7.0\Task_62_Spiral_Array.deps.json
+D:\Training\Знакомство с языком программирования C#\Seminar8_ДЗ\S_8\Task_62_Spiral_Array\bin\Debug\net7.0\Task_62_Spiral_Array.runtimeconfig.json
+D:\Training\Знакомство с языком программирования C#\Seminar8_ДЗ\S_8\Task_62_Spiral_Array\bin\Debug\net7.0\Task_62_Spiral_Array.dll
+D:\Training\Знакомство с языком программирования C#\Seminar8_ДЗ\S_8\Task_62_Spiral_Array\bin\Debug\net7.0\Task_62_Spiral_Array.pdb
+D:\Training\Знакомство с языком программирования C#\Seminar8_ДЗ\S_8\Task_62_Spiral_Array\obj\Debug\net7.0\Task_62_Spiral_Array.dll
+D:\Training\Знакомство с языком программирования C#\Seminar8_ДЗ\S_8\Task_62_Spiral_Array\obj\Debug\net7.0\refint\Task_62_Spiral_Array.dll
+D:\Training\Знакомство с языком программирования C#\Seminar8_ДЗ\S_8\Task_62_Spiral_Array\obj\Debug\net7.0\Task_62_Spiral_Array.pdb
+D:\Training\Знакомство с языком программирования C#\Seminar8_ДЗ\S_8\Task_62_Spiral_Array\obj\Debug\net7.0\Task_62_Spiral_Array.genruntimeconfig.cache
+D:\Training\Знакомство с языком программирования C#\Seminar8_ДЗ\S_8\Task_62_Spiral_Array\obj\Debug\net7.0\ref\Task_62_Spiral_Array.dll
