@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Training\\Знакомство с языком программирования C#\\Seminar8_ДЗ\\S_8\\Task_56_The_Row_With_The_Smallest_Sum_Of_Elements\\Task_56_The_Row_With_The_Smallest_Sum_Of_Elements.csproj": {}
+    "D:\\Training\\Знакомство с языком программирования C#\\Seminar8_ДЗ\\S_8\\Task_54\\Task_54.csproj": {}
   },
   "projects": {
-    "d:\\Training\\Знакомство с языком программирования C#\\Seminar8_ДЗ\\S_8\\Task_56_The_Row_With_The_Smallest_Sum_Of_Elements\\Task_56_The_Row_With_The_Smallest_Sum_Of_Elements.csproj": {
+    "D:\\Training\\Знакомство с языком программирования C#\\Seminar8_ДЗ\\S_8\\Task_54\\Task_54.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Training\\Знакомство с языком программирования C#\\Seminar8_ДЗ\\S_8\\Task_56_The_Row_With_The_Smallest_Sum_Of_Elements\\Task_56_The_Row_With_The_Smallest_Sum_Of_Elements.csproj",
-        "projectName": "Task_56_The_Row_With_The_Smallest_Sum_Of_Elements",
-        "projectPath": "d:\\Training\\Знакомство с языком программирования C#\\Seminar8_ДЗ\\S_8\\Task_56_The_Row_With_The_Smallest_Sum_Of_Elements\\Task_56_The_Row_With_The_Smallest_Sum_Of_Elements.csproj",
+        "projectUniqueName": "D:\\Training\\Знакомство с языком программирования C#\\Seminar8_ДЗ\\S_8\\Task_54\\Task_54.csproj",
+        "projectName": "Task_54",
+        "projectPath": "D:\\Training\\Знакомство с языком программирования C#\\Seminar8_ДЗ\\S_8\\Task_54\\Task_54.csproj",
         "packagesPath": "C:\\Users\\korho\\.nuget\\packages\\",
-        "outputPath": "d:\\Training\\Знакомство с языком программирования C#\\Seminar8_ДЗ\\S_8\\Task_56_The_Row_With_The_Smallest_Sum_Of_Elements\\obj\\",
+        "outputPath": "D:\\Training\\Знакомство с языком программирования C#\\Seminar8_ДЗ\\S_8\\Task_54\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\SDK\\NuGetPackages"

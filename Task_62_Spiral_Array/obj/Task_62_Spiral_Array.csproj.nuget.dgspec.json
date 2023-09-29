@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Training\\Знакомство с языком программирования C#\\Seminar8_ДЗ\\S_8\\Task_62_Spiral_Array\\Task_62_Spiral_Array.csproj": {}
+    "d:\\Training\\Знакомство с языком программирования C#\\Seminar8_ДЗ\\S_8\\Task_62_Spiral_Array\\Task_62_Spiral_Array.csproj": {}
   },
   "projects": {
-    "D:\\Training\\Знакомство с языком программирования C#\\Seminar8_ДЗ\\S_8\\Task_62_Spiral_Array\\Task_62_Spiral_Array.csproj": {
+    "d:\\Training\\Знакомство с языком программирования C#\\Seminar8_ДЗ\\S_8\\Task_62_Spiral_Array\\Task_62_Spiral_Array.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Training\\Знакомство с языком программирования C#\\Seminar8_ДЗ\\S_8\\Task_62_Spiral_Array\\Task_62_Spiral_Array.csproj",
+        "projectUniqueName": "d:\\Training\\Знакомство с языком программирования C#\\Seminar8_ДЗ\\S_8\\Task_62_Spiral_Array\\Task_62_Spiral_Array.csproj",
         "projectName": "Task_62_Spiral_Array",
-        "projectPath": "D:\\Training\\Знакомство с языком программирования C#\\Seminar8_ДЗ\\S_8\\Task_62_Spiral_Array\\Task_62_Spiral_Array.csproj",
+        "projectPath": "d:\\Training\\Знакомство с языком программирования C#\\Seminar8_ДЗ\\S_8\\Task_62_Spiral_Array\\Task_62_Spiral_Array.csproj",
         "packagesPath": "C:\\Users\\korho\\.nuget\\packages\\",
-        "outputPath": "D:\\Training\\Знакомство с языком программирования C#\\Seminar8_ДЗ\\S_8\\Task_62_Spiral_Array\\obj\\",
+        "outputPath": "d:\\Training\\Знакомство с языком программирования C#\\Seminar8_ДЗ\\S_8\\Task_62_Spiral_Array\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\SDK\\NuGetPackages"
